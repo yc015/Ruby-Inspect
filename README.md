@@ -6,7 +6,7 @@
 Ruby Inspect: a comprehensive review of the programming language Ruby
 
 <figure class="image">
-    <img src="docs/Ruby_Inspect_logo.png" width="500" height="" />
+    <img src="docs/Ruby_Inspect_logo.png" width="350" height="" />
     <figcaption>The logo of Ruby Inspect</figcaption>
 </figure>
 

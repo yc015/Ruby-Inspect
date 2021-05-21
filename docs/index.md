@@ -12,7 +12,7 @@
     - Functional 
     - Imperative
 4. [Variable Typing in Ruby: Dynamic or Static Typing?](variable_typing.md) 
-5. Types of Variables 
+5. [Types of Variables](types_of_variable.md) 
 6. Typing Strength
 7. Type Coercion
 8. Scope in Ruby: Dynamic or Static Score?

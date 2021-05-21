@@ -1,3 +1,5 @@
+#!/usr/bin/ruby -w
+
 class Car
   def start_engine
     puts "Engine starts Vroom Vroom~"
