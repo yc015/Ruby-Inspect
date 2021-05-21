@@ -30,6 +30,6 @@ $ Hello World!
 
 To run this program in terminal, make sure your HelloWorld.rb file is in your current working directory and run with command `$ ruby HelloWorld.rb`.
 
-The source codes of every example Ruby program in this textbook can be found in the [src/](../src) directory of the textbook's [GitHub Repository](https://github.com/yc015/Ruby-Inspect).
+The source codes of every example Ruby program in this textbook can be found in the [src/](https://github.com/yc015/Ruby-Inspect) directory of the textbook's [GitHub Repository](https://github.com/yc015/Ruby-Inspect).
 
-The source code of **HelloWorld.rb** can be found here: [src/HelloWorld.rb](../src/HelloWorld.rb).
+The source code of **HelloWorld.rb** can be found here: [https://github.com/yc015/Ruby-Inspect/blob/main/src/HelloWorld.rb](https://github.com/yc015/Ruby-Inspect/blob/main/src/HelloWorld.rb).

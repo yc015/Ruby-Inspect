@@ -1,13 +1,13 @@
 # Welcome to the Ruby Inspect!
 
-*Ruby Inspect* is an online textbook for programmers who wish to learn the facts about the Ruby, a programming language that has been thrived for more than 20 years. This book focus on the programming lanuage designs of the Ruby. 
+*Ruby Inspect* is an online textbook for programmers who wish to learn the facts about Ruby, a programming language that has been thrived for more than 20 years. This book focuses on the programming language designs of Ruby. 
 
 # Table of Contents
 1. [Ruby Installation and your first Ruby program](installation.md)
     - Installation
     - HelloWorld.rb
-2. History of Ruby
-3. Programming Paradigms of Ruby:
+2. [History of Ruby](history.md)
+3. [Programming Paradigms of Ruby:](programming_paradigms.md)
     - Object Oriented
     - Functional 
     - Imperative
@@ -44,7 +44,7 @@
 32. Dangling Else
 
 # About Author
-The author of this textbook, Yida Chen, is an undergraduate computer science student at Bucknell University. His research interests spread from Medical Imaging Analysis to Digital Humanities. He is the project maintainer of an open-access software, [KALMUS: tools for color analysis of films](https://github.com/KALMUS-Color-Toolkit/KALMUS).
+The author of this textbook, [Yida Chen](https://github.com/yc015), is an undergraduate computer science student at Bucknell University. His research interests spread from Medical Imaging Analysis to Digital Humanities. He is the project maintainer of an open-access software, [KALMUS: tools for color analysis of films](https://github.com/KALMUS-Color-Toolkit/KALMUS).
 
 # Acknowledgement
 This online book is a part of outcomes from the course CSCI308: Programming Language Design instructed by Prof. Lea Wittie and Prof. Alex Kelly at Bucknell University.
