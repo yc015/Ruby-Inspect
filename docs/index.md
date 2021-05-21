@@ -1,37 +1,43 @@
-## Welcome to GitHub Pages
+# Welcome to the Ruby Inspect!
 
-You can use the [editor on GitHub](https://github.com/yc015/Ruby-Inspect/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+*Ruby Inspect* is an online textbook for programmers who wish to learn the facts about the Ruby, a programming language that has been thrived for more than 20 years. This book focus on the programming lanuage designs of the Ruby. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Table of Contents
+1. Ruby Installation and your first Ruby program
+2. History of Ruby
+3. Programming Paradigms of Ruby:
+    - Object Oriented
+    - Functional 
+    - Imperative
+4. Variable Typing in Ruby: Dynamic or Static Typing? 
+5. Types of Variables 
+6. Typing Strength
+7. Type Coercion
+8. Scope in Ruby: Dynamic or Static Score?
+9. Reflection
+10. Possible Memory Hazard
+11. Short Circuit Evaluation
+12. Parameter Passing
+13. Strict vs Non-strict Evaluation
+14. Math Operations on Numbers
+15. Multidimensional Arrays
+16. The String Type
+17. Using Default Parameters in Ruby
+18. Constructors
+19. Garbage Collection
+20. Namespaces
+21. Polymorphism
+22. Inheritance
+23. Overloading Operators
+24. Exceptions
+25. Method Binding: Dynamic or Static Binding?
+26. Deep vs Shallow copying of objects
+27. Anonymous Functions
+28. Higher Order Functions
+29. Function composition
+30. Infinite/Lazy Lists
+31. Return Value in Ruby
+32. Dangling Else
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/yc015/Ruby-Inspect/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+# Contact us
+If you find any errors, typos, or issues in the *Ruby Inspect*, please contact the author, Yida Chen, via email <yc015@bucknell.edu> or open an issue in the [textbook's GitHub repository](https://github.com/yc015/Ruby-Inspect/issues).
