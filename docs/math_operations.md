@@ -26,7 +26,7 @@ The codes above will print:
     2
     3
     
-In Ruby, we can do bitwise operation on the integer using operators such as >>, <<, &, and |.
+In Ruby, we can do bitwise operation on the integer using operators such as `>>`, `<<`, `&`, and `|`.
 
 Reference:  
 [1] [https://ruby-doc.org/core-2.5.0/Integer.html](https://ruby-doc.org/core-2.5.0/Integer.html) Ruby’s Official Documentation for Integer Class.
