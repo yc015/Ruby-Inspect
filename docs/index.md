@@ -22,10 +22,10 @@
 10. [Possible Memory Hazard](memory_hazard.md)
 11. [Short Circuit Evaluation](short_circuit_evaluation.md)
 12. [Parameter Passing](parameter_passing.md)
-13. Strict vs Non-strict Evaluation
-14. Math Operations on Numbers
-15. Multidimensional Arrays
-16. The String Type
+13. [Strict vs Non-strict Evaluation](strict_evaluation.md)
+14. [Math Operations on Numbers](math_operations.md)
+15. [Multidimensional Arrays](multidimensional_arrays.md)
+16. [The String Type](string_type.md)
 17. Using Default Parameters in Ruby
 18. Constructors
 19. Garbage Collection
