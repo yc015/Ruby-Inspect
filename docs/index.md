@@ -11,7 +11,7 @@
     - Object Oriented
     - Functional 
     - Imperative
-4. Variable Typing in Ruby: Dynamic or Static Typing? 
+4. [Variable Typing in Ruby: Dynamic or Static Typing?](variable_typing.md) 
 5. Types of Variables 
 6. Typing Strength
 7. Type Coercion
