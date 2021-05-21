@@ -15,13 +15,13 @@
 5. [Types of Variables](types_of_variable.md) 
 6. [Typing Strength](typing_strengths.md)
 7. [Type Coercion](type_coercion.md)
-8. Scope in Ruby: Dynamic or Static Score?
-9. Reflection
+8. [Scope in Ruby: Dynamic or Static Score?](scope.md)
+9. [Reflection](reflection.md)
     - Computational Reflection
     - Structural Reflection
-10. Possible Memory Hazard
-11. Short Circuit Evaluation
-12. Parameter Passing
+10. [Possible Memory Hazard](memory_hazard.md)
+11. [Short Circuit Evaluation](short_circuit_evaluation.md)
+12. [Parameter Passing](parameter_passing.md)
 13. Strict vs Non-strict Evaluation
 14. Math Operations on Numbers
 15. Multidimensional Arrays
