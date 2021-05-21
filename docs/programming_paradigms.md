@@ -9,7 +9,7 @@ There are also a number of functional paradigm features in Ruby. First, every me
 ## 3. Imperative:
 Ruby is also imperative. The program in ruby is a sequence of statements that are executed in the specified order. The program in ruby can be written with loops, such as while loops and for loops [6]. We can do assignments in Ruby’s program and change the assigned value to the variable (change contents on the memory). Therefore, Ruby's program contains the state, and the state of the Ruby program can be changed as the program runs [7].
 
-References:
+References:  
 [1] [https://www.ruby-lang.org/en/documentation/faq/1/](https://www.ruby-lang.org/en/documentation/faq/1/) The Official Ruby FAQ  
 [2] [https://www.tutorialspoint.com/ruby/ruby_object_oriented.htm](https://www.tutorialspoint.com/ruby/ruby_object_oriented.htm) Tutorial’s point for Ruby - Object Oriented  
 [3] [http://ruby-for-beginners.rubymonstas.org/writing_methods/return_values.html](http://ruby-for-beginners.rubymonstas.org/writing_methods/return_values.html) Ruby for Beginners by Ruby Monstas  
