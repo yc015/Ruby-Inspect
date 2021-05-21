@@ -1,6 +1,6 @@
 # Math Operations on Numbers
 
-Ruby supports non-standard math operations on Integer objects, such as >> shift bit to right, << shift bit to left, & bitwise and, and | bitwise or [1].
+Ruby supports non-standard math operations on Integer objects, such as `>>` shift bit to right, `<<` shift bit to left, `&` bitwise `and`, and `|` bitwise `or` [1].
 
 **math_operations.rb**
 ```ruby

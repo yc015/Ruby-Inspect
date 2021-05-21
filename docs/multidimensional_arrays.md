@@ -19,11 +19,14 @@ The codes above will print:
 
 The array c is jagged where each row of the array c has a different length.
 
-We can access the fields of an array using integer index:
+We can access the fields of an array using integer index:  
+
+```ruby
 a = Array.new(3, 4)
 puts a[1] # print 4
+```
 
-The codes above will print 4 which is the second element in the array a.
+The codes above will print `4` which is the second element in the array a.
 
 Reference:  
 [1] [https://learn.co/lessons/nested-arrays-ruby](https://learn.co/lessons/nested-arrays-ruby) Nested Arrays Ruby - Learn.co
