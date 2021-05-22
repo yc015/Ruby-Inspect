@@ -38,10 +38,10 @@
 26. [Deep vs Shallow copying of objects](deep_shallow_copy.md)
 27. [Anonymous Functions](lambda_functions.md)
 28. [Higher Order Functions](higher_order_function.md)
-29. Function composition
-30. Infinite/Lazy Lists
-31. Return Value in Ruby
-32. Dangling Else
+29. [Function composition](function_composition.md)
+30. [Infinite Lists](infinite_lists.md)
+31. [Return Value in Ruby](return_value.md)
+32. [Dangling Else](dangling_else.md)
 
 # About Author
 The author of this textbook, [Yida Chen](https://github.com/yc015), is an undergraduate computer science student at Bucknell University. His research interests spread from Medical Imaging Analysis to Digital Humanities. He is the project maintainer of an open-access software, [KALMUS: tools for color analysis of films](https://github.com/KALMUS-Color-Toolkit/KALMUS).
