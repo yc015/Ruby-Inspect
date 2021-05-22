@@ -50,7 +50,7 @@ The author of this textbook, [Yida Chen](https://github.com/yc015), is an underg
 This online book is a part of outcomes from the course CSCI308: Programming Language Design instructed by Prof. Lea Wittie and Prof. Alex Kelly at Bucknell University.
 
 # Open-Access
-The material of this textbook, *Ruby Inspect*, is open-access under the [Creative Commons Attribution-ShareAlike 4.0 International License](RUBY-INSPECT_BOOK_LICENSE). The source codes provided in this textbook are distributed under the open-source [MIT License](LICENSE). You can find the copies of source codes in the [src/](https://github.com/yc015/Ruby-Inspect/tree/main/src) directory of this textbook's GitHub Repository.
+The material of this textbook, *Ruby Inspect*, is open-access under the [Creative Commons Attribution-ShareAlike 4.0 International License](../RUBY-INSPECT_BOOK_LICENSE). The source codes provided in this textbook are distributed under the open-source [MIT License](../LICENSE). You can find the copies of source codes in the [src/](https://github.com/yc015/Ruby-Inspect/tree/main/src) directory of this textbook's GitHub Repository.
 
 # Contact Author
 If you find any errors, typos, or have any suggestions to *Ruby Inspect*, please contact the author, Yida Chen, via email <yc015@bucknell.edu> or open an issue in the [textbook's GitHub repository](https://github.com/yc015/Ruby-Inspect/issues).
