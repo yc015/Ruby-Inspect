@@ -30,11 +30,11 @@
 18. [Constructors](constructors.md)
 19. [Garbage Collection](garbage_collection.md)
 20. [Namespaces](namespaces.md)
-21. Polymorphism
-22. Inheritance
-23. Overloading Operators
-24. Exceptions
-25. Method Binding: Dynamic or Static Binding?
+21. [Inheritance](inheritance.md)
+22. [Overloading Operators](overloading_operators.md)
+23. [Polymorphism](polymorphism.md)
+24. [Exceptions](exceptions.md)
+25. [Method Binding: Dynamic or Static Binding?](method_binding.md)
 26. Deep vs Shallow copying of objects
 27. Anonymous Functions
 28. Higher Order Functions
