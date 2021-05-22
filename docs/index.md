@@ -35,9 +35,9 @@
 23. [Polymorphism](polymorphism.md)
 24. [Exceptions](exceptions.md)
 25. [Method Binding: Dynamic or Static Binding?](method_binding.md)
-26. Deep vs Shallow copying of objects
-27. Anonymous Functions
-28. Higher Order Functions
+26. [Deep vs Shallow copying of objects](deep_shallow_copy.md)
+27. [Anonymous Functions](lambda_functions.md)
+28. [Higher Order Functions](higher_order_function.md)
 29. Function composition
 30. Infinite/Lazy Lists
 31. Return Value in Ruby
