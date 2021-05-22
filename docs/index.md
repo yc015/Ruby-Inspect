@@ -26,10 +26,10 @@
 14. [Math Operations on Numbers](math_operations.md)
 15. [Multidimensional Arrays](multidimensional_arrays.md)
 16. [The String Type](string_type.md)
-17. Using Default Parameters in Ruby
-18. Constructors
-19. Garbage Collection
-20. Namespaces
+17. [Using Default Parameters in Ruby](default_parameters.md)
+18. [Constructors](constructors.md)
+19. [Garbage Collection](garbage_collection.md)
+20. [Namespaces](namespaces.md)
 21. Polymorphism
 22. Inheritance
 23. Overloading Operators
