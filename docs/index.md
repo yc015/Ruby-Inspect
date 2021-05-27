@@ -1,6 +1,6 @@
 # Welcome to the Ruby Inspect!
 
-*Ruby Inspect* is an online textbook for programmers who wish to learn the facts about Ruby, a programming language that has been thrived for more than 20 years. This book focuses on the programming language designs of Ruby. 
+*Ruby Inspect* is an online textbook for programmers who wish to learn the interesting facts about Ruby, a programming language that has been thrived for more than 20 years. This book focuses on the programming language designs of Ruby. 
 
 # Table of Contents
 1. [Ruby Installation and your first Ruby program](installation.md)
